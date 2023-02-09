@@ -10,3 +10,4 @@ Voici mon chien!!
 
 ## À l'extérieur du multimédia
 Je suis une personnes assez artistique, j'adore dessiner et j'ai une passion pour la musique. Je suis assez perfectionniste alors souvent il difficile pour moi d'être satisfait avec mes créations. Malgré le fait que j'aime la musique, je ne suis pas très bon avec un instrument, je suis présentement entrain d'apprendre à jouer la guitar.
+:grin:

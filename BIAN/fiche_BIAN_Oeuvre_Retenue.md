@@ -71,7 +71,7 @@ Premièrement, j'ai beaucoup aimé la présentation de l'œuvre, au niveau de so
 <br>
 
 ### Ce que je ne souhaite pas retenir pour mes créations
-Cels ne s'applique pas à l'oeuvre que j'ai choisi, mais parfois je trouver que certaines oeuvre n'utilisant qu'un écran et riens d'autres étaient plus ennuyantes et moins engagente que ceux qui était interactive et immersive. 
+Cela ne s'applique pas à l'œuvre que j'ai choisie, mais parfois je trouver que certaines œuvres n'utilisant qu'un écran et riens d'autres étaient plus ennuyantes et moins engagent que ceux qui était interactifs et immersifs.
 
 ## Références
 - https://www.arsenalcontemporary.com

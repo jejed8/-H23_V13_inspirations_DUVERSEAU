@@ -62,6 +62,7 @@ Dimensions : 380 × 560 × 300 cm / 149,6 x 220,4 × 118,1 in
 <br>
 ![resonance-4](https://user-images.githubusercontent.com/47800238/220980751-0ffd135a-2718-4527-abae-91106f9cb5a7.png)
 <br>
+*(Source: https://www.elektramontreal.ca/bian2022-louis-philippe-rondeau?lang=fr)*
 <br>
 
 ## Synthèse

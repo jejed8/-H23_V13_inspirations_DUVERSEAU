@@ -62,6 +62,16 @@ Cartel *Notes on blindness*
 ### Mise en espace
 ### Composantes et techniques
 ### Élements nécessaires à la mise en exposition
+L'ensmeble des cablages et une partie du matériel technique n'est pas visble et accessible pour le publique. Cela contrerais le but de l'exposition qui est d'immerser le visiteur. Le faible éclairage n'aide pas non-plus à repérer ces éléments. Cependant plusieurs éléments étant nécessaire pour immerser le visiteur sont en présent dans l'espace du accessible au publique. Voici une liste:
+- Bancs;
+- Surfaces pour projection (murs et plancher);
+- Projecteurs Laser;
+- Plancher interactif;
+- Système d'éclairage DEL;
+- Installations architecturale ambiante;
+- Système audio;
+
+
 ### Expérience vécue 
 Lorsque le visiteur rentre dans la troisième galerie, il fait face à une grande pièce spacieuse dans laquelle se trouvent plusieurs bancs répartis sur le contour de la pièce. Il y a aussi une structure décorative mise en place dans le centre de la pièce sur laquelle le visiteur risque de contester son utilité. Le visiteur a le choix de prendre une place assise ou de rester debout lors de la présentation. Ceux étant debout seront tentés d'interagir avec le plancher interactif de la pièce. Tandis que ceux, assis observent la présentation. Il est normal pour le visiteur de se lever et se promener dans la pièce pour bien participer à l'immersion. Personnellement, c'est ce que j'ai fait. J'ai alterné entre être debout et assis au cours des trois présentations. J'ai aussi engagé avec le plancher interactif.
 

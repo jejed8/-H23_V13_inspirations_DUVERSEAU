@@ -38,6 +38,14 @@ Galeries
 <br>
 
 ## Panorama - Galerie no3
+- Plus grande galerie de l'espace OASIS immersion;
+- Seule gallerie itéractive;  
+- Comporte 3 présentation immersive et intéractive:
+    1. Goliath
+    2. Conscious existence
+    3. notes on blindness
+
+
 
   
   

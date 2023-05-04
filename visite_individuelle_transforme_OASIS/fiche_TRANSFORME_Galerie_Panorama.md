@@ -20,7 +20,7 @@ Palais des Congrès
 - À débuter en janvier 2023, la date de fin n'est pas encore précisée;
 - Exposition intérieur;
 - Hybride;
-- Immersive;
+- Immersive/interactive;
 
 ### Informations complémentaires
 - Durée de l'exposition: environ 80 min (environ 25min par salle);
@@ -39,7 +39,8 @@ Galeries
 
 ## Panorama - Galerie no3
 - Plus grande galerie de l'espace OASIS immersion;
-- Seule gallerie itéractive;  
+- Seule gallerie interactive;  
+- Installations immersives et interactives;
 - Comporte 3 présentations immersives et intéractives:
     1. *Goliath* par Barry Gene Murphy et May Abdallah
     2. *Conscious existence* par Marc Zimmermann

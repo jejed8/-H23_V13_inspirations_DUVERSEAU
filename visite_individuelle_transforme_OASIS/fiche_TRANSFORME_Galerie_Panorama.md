@@ -87,6 +87,6 @@ J'ai beaucoup aimé mon expérience donc je n'ai pas beaucoup de points négatif
 - https://www.newswire.ca/fr/news-releases/des-janvier-2023-transforme-la-nouvelle-exposition-d-oasis-immersion-de-la-realite-virtuelle-a-l-experience-immersive-812038489.html
 - https://www.mtl.org/fr/experience/oasis-immersion
 - https://oasis.ticketpro.ca/fr/pages/oasis_transforme?__hstc=60164978.a4dda46286f7ccef9b8a7029871f98cd.1683149505478.1683149505478.1683170638322.2&__hssc=60164978.19.1683170638322&__hsfp=3882409518
-- 
+-  
   
   

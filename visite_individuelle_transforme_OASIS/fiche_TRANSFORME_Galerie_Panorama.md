@@ -1,5 +1,6 @@
 <h1> TRANSFORMÉ PAR OASIS IMMERSION - GALERIE PANORAMA<h1>
-301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
+
+  301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
 
   <h2>Informations sur l'exposition<h2>
   <h3>Affiche de l'Exposition<h3>  

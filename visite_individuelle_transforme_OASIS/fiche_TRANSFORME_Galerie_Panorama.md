@@ -53,10 +53,12 @@ Galeries
 </div>
 
 ### Mise en espace
+La galerie panorama est la plus grande galerie sur le site. Des murs spécialisés pour les projections font le périmètre de la pièce. Des bancs pour s'assoir sont répartis dans la pièce. Des haut-parleurs longent le haut des quatre murs. Une structure décorative est positionnée au centre de la pièce. Les projecteurs laser sont installés au plafond.
 
 #### Médias
 <div style="display:inline-block">
     <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/croquis_gallerie_panorama_transforme.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/mise_en_espace_structure_transforme.png"
 </div>
 
 ### Élements, composantes et techniques nécessaires à la mise en exposition

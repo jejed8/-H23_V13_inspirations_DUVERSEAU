@@ -11,7 +11,9 @@ Transformé
 ### Lieu de l'exposition
 301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
 Palais des Congrès
-[photo palais]
+<br>
+<img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/palais_des_congres.png">
+<br>
 
 ### Type d'exposition
 - Exposition temporaire;
@@ -29,8 +31,11 @@ Palais des Congrès
 Transformé explore des thèmes identitaires et de société parmis les projections affichées sous différentes perspectives. 
 « On y organise des expositions temporaires inspirées par les personnes, les lieux et les tendances qui façonnent notre monde.»
 *(source: https://www.mtl.org/fr/experience/oasis-immersion)*
-
-[photo galeries]
+<br>
+Galeries
+<br>
+<img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/affiche_galeries_transforme.png">
+<br>
 
 ## Panorama - Galerie no3
 

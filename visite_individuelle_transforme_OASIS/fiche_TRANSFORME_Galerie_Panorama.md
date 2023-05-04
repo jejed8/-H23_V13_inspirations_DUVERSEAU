@@ -62,13 +62,13 @@ Cartel *Notes on blindness*
 ### Mise en espace
 ### Composantes et techniques
 ### Élements nécessaires à la mise en exposition
-L'ensmeble des cablages et une partie du matériel technique n'est pas visble et accessible pour le publique. Cela contrerais le but de l'exposition qui est d'immerser le visiteur. Le faible éclairage n'aide pas non-plus à repérer ces éléments. Cependant plusieurs éléments étant nécessaire pour immerser le visiteur sont en présent dans l'espace du accessible au publique. Voici une liste:
+L'ensemble des câblages et une partie du matériel technique ne sont pas visibles et accessibles pour le public. Cela contrerait le but de l'exposition qui est l'immersion du visiteur. Le faible éclairage n'aide pas non plus à repérer ces éléments. Cependant, plusieurs éléments étant nécessaires à l’immersion du visiteur sont présents dans l'espace accessible au public. Voici une liste:
 - Bancs;
 - Surfaces pour projection (murs et plancher);
 - Projecteurs Laser;
 - Plancher interactif;
 - Système d'éclairage DEL;
-- Installations architecturale ambiante;
+- Installations architecturales ambiantes;
 - Système audio;
 
 

@@ -43,9 +43,9 @@ Galeries
 - Seule gallerie interactive;  
 - Installations immersives et interactives;
 - Comporte 3 présentations immersives et intéractives:
-    1. *Goliath* par Barry Gene Murphy et May Abdallah
-    2. *Conscious existence* par Marc Zimmermann
-    3. *Notes on blindness* par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney
+    1. *Goliath* par Barry Gene Murphy et May Abdallah - *[Page Steam](https://store.steampowered.com/app/2138380/Goliath_Playing_With_Reality/)*
+    2. *Conscious existence* par Marc Zimmermann - *[Page Steam](https://store.steampowered.com/app/1093330/Conscious_Existence__A_Journey_Within/)*
+    3. *Notes on blindness* par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney - *[Astrea Immersive](https://astreaimmersive.io/project/notes-on-blindness/)*
 <div style="display:inline-block">
     <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_goliath_transforme.png">
     <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_conscious_existence_transforme.png">

@@ -40,7 +40,7 @@ Galeries
 ## Panorama - Galerie no3
 - Plus grande galerie de l'espace OASIS immersion;
 - Seule gallerie itéractive;  
-- Comporte 3 présentation immersive et intéractive:
+- Comporte 3 présentations immersives et intéractives:
     1. *Goliath* par Barry Gene Murphy et May Abdallah
     2. *Conscious existence* par Marc Zimmermann
     3. *Notes on blindness* par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney

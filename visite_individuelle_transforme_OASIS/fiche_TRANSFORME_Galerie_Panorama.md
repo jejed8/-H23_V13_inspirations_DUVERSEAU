@@ -59,7 +59,21 @@ Cartel *Notes on blindness*
 <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_notes_on_blindness_transforme.png">
 <br>
 
+### Mise en espace
+### Composantes et techniques
+### Élements nécessaires à la mise en exposition
+### Expérience vécue 
+Lorsque le visiteur rentre dans la troisième galerie, il fait face à une gande pièce spatieuse dans laquelle se trouve plusieurs bancs répartis sur le contour de la pièce. Il y a aussi une structure décorative mise en place dans le centre de la pièce sur laquelle le visteur risque de questionner son utilité. Le visteur à le choix de prendre une place assise ou de rester debout lors de la présentation. Ceux étant debout seront tanté d'intéragir avec le plancher interactif de la pièce. Tandis que ceux assis, observent la présentation. Il est normale pour le visteur de se lever et se prommener dans la pièce pour bien participer à l'immersion. Personnelement c'est ce que j'ai fait. J'ai alterner entre être debout et assis au cours des trois présentation. J'ai aussi engagé avec le plancher interactif.
+
+### Ce qui m'a plu
+### Aspect que je ne souhaite pas retenir pour mes propres créations
 
 
+## Références
+- https://oasis.im/en/all-immersive-experience/
+- https://www.newswire.ca/fr/news-releases/des-janvier-2023-transforme-la-nouvelle-exposition-d-oasis-immersion-de-la-realite-virtuelle-a-l-experience-immersive-812038489.html
+- https://www.mtl.org/fr/experience/oasis-immersion
+- https://oasis.ticketpro.ca/fr/pages/oasis_transforme?__hstc=60164978.a4dda46286f7ccef9b8a7029871f98cd.1683149505478.1683149505478.1683170638322.2&__hssc=60164978.19.1683170638322&__hsfp=3882409518
+- 
   
   

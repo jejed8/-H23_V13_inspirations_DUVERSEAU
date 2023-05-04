@@ -16,11 +16,18 @@ Palais des Congrès
 - À débuter en janvier 2023, la date de fin n'est pas encore précisée;
 - Exposition intérieur;
 - Hybride;
+- Immersive;
 
 ### Informations complémentaires
-- Durée de l'exposition: environ 80 min;
+- Durée de l'exposition: environ 80 min (environ 25min par salle);
 - Trois galeries;
-- 2 à 3 présentations par gallerie
+- 2 à 3 présentations par galerie;
+- Espace de 2200 mètres carrés;
+
+Transformé explore des thèmes identitaire et de société parmis les projections affichées sous différente perspective. 
+« On y organise des expositions temporaires inspirées par les personnes, les lieux et les tendances qui façonnent notre monde.»
+
+[photo galeries]
 
    
   

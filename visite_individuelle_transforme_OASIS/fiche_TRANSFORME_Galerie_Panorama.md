@@ -3,8 +3,9 @@
 ## Informations sur l'exposition
 ### Affiche de l'exposition
 Transformé
-[photo]
+<br>
 <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/transforme_affiche_expo_582x900.png">
+<br>
 *(source: https://www.newswire.ca/fr/news-releases/des-janvier-2023-transforme-la-nouvelle-exposition-d-oasis-immersion-de-la-realite-virtuelle-a-l-experience-immersive-812038489.html)*
 
 ### Lieu de l'exposition

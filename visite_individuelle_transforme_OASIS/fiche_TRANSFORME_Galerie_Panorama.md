@@ -27,6 +27,7 @@ Palais des Congrès
 - Trois galeries;
 - 2 à 3 présentations par galerie;
 - Espace de 2200 mètres carrés;
+- Les projections sont à la base, des œuvres de réalité virtuelle qui ont été adaptées dans le cadre de l'exposition;
 
 Transformé explore des thèmes identitaires et de société parmis les projections affichées sous différentes perspectives. 
 « On y organise des expositions temporaires inspirées par les personnes, les lieux et les tendances qui façonnent notre monde.»

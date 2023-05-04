@@ -67,6 +67,8 @@ L'ensemble des câblages et une partie du matériel technique ne sont pas visibl
 ### Expérience vécue 
 Lorsque le visiteur rentre dans la troisième galerie, il fait face à une grande pièce spacieuse dans laquelle se trouvent plusieurs bancs répartis sur le contour de la pièce. Il y a aussi une structure décorative mise en place dans le centre de la pièce sur laquelle le visiteur risque de contester son utilité. Le visiteur a le choix de prendre une place assise ou de rester debout lors de la présentation. Ceux étant debout seront tentés d'interagir avec le plancher interactif de la pièce. Tandis que ceux, assis observent la présentation. Il est normal pour le visiteur de se lever et se promener dans la pièce pour bien participer à l'immersion. Personnellement, c'est ce que j'ai fait. J'ai alterné entre être debout et assis au cours des trois présentations. J'ai aussi engagé avec le plancher interactif.
 
+#### Médias
+
 ### Ce qui m'a plu
 J'ai vraiment été satisfait avec mon choix de visite pour ce projet. J'en ai tiré que du positif. Les projections étaient très belles, intéressantes et captivantes. Je voulais regarder dans toutes les directions en même temps. Je trouve que les trois œuvres présentées ont été parfaitement bien réalisées par les équipes ayant travaillé dessus. Les visuels étaient transporteurs. Je pense aussi qu’OASIS, leur a bien rendu justice avec la façon dont ils ont adapté les œuvres pour l'exposition. Ils ont bien réussi l'immersion du visiteur.
 

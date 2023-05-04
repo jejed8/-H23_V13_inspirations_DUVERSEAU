@@ -54,6 +54,11 @@ Galeries
 
 ### Mise en espace
 
+#### Médias
+<div style="display:inline-block">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/croquis_gallerie_panorama_transforme.png">
+</div>
+
 ### Élements, composantes et techniques nécessaires à la mise en exposition
 L'ensemble des câblages et une partie du matériel technique ne sont pas visibles et accessibles pour le public. Cela contrerait le but de l'exposition qui est l'immersion du visiteur. Le faible éclairage n'aide pas non plus à repérer ces éléments. Cependant, plusieurs éléments étant nécessaires à l’immersion du visiteur sont présents dans l'espace accessible au public. Voici une liste:
 - Bancs;

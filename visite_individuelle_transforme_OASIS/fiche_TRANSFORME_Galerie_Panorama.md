@@ -70,6 +70,13 @@ Lorsque le visiteur rentre dans la troisième galerie, il fait face à une grand
 - [Vidéo sol interactif](https://youtu.be/JrQCY6zl0QA)
 - [Vidéo expérience panorama Transformé](https://youtu.be/h7BIDbA5K44)
 
+<div style="display:inline-block">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/experience_panorama_transforme_01.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/experience_panorama_transforme_02.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/experience_panorama_transforme_03.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/experience_panorama_transforme_04.png">
+</div>
+
 ### Ce qui m'a plu
 J'ai vraiment été satisfait avec mon choix de visite pour ce projet. J'en ai tiré que du positif. Les projections étaient très belles, intéressantes et captivantes. Je voulais regarder dans toutes les directions en même temps. Je trouve que les trois œuvres présentées ont été parfaitement bien réalisées par les équipes ayant travaillé dessus. Les visuels étaient transporteurs. Je pense aussi qu’OASIS, leur a bien rendu justice avec la façon dont ils ont adapté les œuvres pour l'exposition. Ils ont bien réussi l'immersion du visiteur.
 

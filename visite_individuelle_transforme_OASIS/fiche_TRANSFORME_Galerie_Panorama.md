@@ -46,19 +46,11 @@ Galeries
     1. *Goliath* par Barry Gene Murphy et May Abdallah
     2. *Conscious existence* par Marc Zimmermann
     3. *Notes on blindness* par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney
-
-Cartel *Goliath*
-<br>
-<img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_goliath_transforme.png">
-<br>
-Cartel *Conscious existence*
-<br>
-<img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_conscious_existence_transforme.png">
-<br>
-Cartel *Notes on blindness*
-<br>
-<img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_notes_on_blindness_transforme.png">
-<br>
+<div style="display:inline-block">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_goliath_transforme.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_conscious_existence_transforme.png">
+    <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/visite_individuelle_transforme_OASIS/medias/cartel_notes_on_blindness_transforme.png">
+</div>
 
 ### Mise en espace
 

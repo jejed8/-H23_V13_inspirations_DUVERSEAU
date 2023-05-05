@@ -23,7 +23,7 @@ Réalisé par les étudiants de troisième année du programme TIM au collège M
   - Meryem Berbiche
   - Jean-Christophe
 
-Résume du projet:
+Description du projet:
 <br>
 «Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...» *[Source](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)*
 <br>

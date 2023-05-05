@@ -5,5 +5,5 @@
 - Echomarine: https://tim-montmorency.com/2023/projets/Echomarine/docs/index.html
 - Luma Sol: https://tim-montmorency.com/2023/projets/LumaSol/docs/index.html
 - Zodie Gal: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/index.html
-- *Entre-Fungus*: https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/index.html
+- Edria: https:https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 - *boucler la boucle*: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/index.html

@@ -53,7 +53,7 @@ Description du projet:
 
 Le dispositif est situé dans le jardin public tout près de la porte 1. La tour principale est située dans le centre de l'air commun avec les tables à pique-nique tandis que les petites tours se retrouvent aux extrémités de l'espace dallé. 
 
-#### Média
+#### Médias
 <div style="display:inline-block">
   <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/visualisation_edria.png">
   <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/croquis_edria.png">

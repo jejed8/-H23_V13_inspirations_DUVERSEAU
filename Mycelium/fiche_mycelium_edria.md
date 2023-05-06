@@ -62,7 +62,16 @@ Le dispositif est situé dans le jardin public tout près de la porte 1. La tour
   
 ### Expérience vécue
 
-Le visiteur est invité à marcher dans l’espace et venir découvrir le projet. Edria utilise des capteurs sensoriels afin de permettre l'interactivité avec le visiteur. Lorsqu'il s'approche, il peut remarquer une réaction sonore et visuelle déclenchée par les capteurs.
+Le visiteur est invité à marcher dans l’espace et venir découvrir le projet. Edria utilise des capteurs sensoriels afin de permettre l'interactivité avec le visiteur. Lorsqu'il s'approche, il peut remarquer une réaction sonore et visuelle déclenchée par les capteurs. Ensuite, lorsque le visiteur a compris que le dispositif réagit selon ses mouvements, il risque de continuer à faire des gestes pour expérimenter avec le dispositif.
+  
+#### Médias
+  
+  [Vidéo]()
+  
+<div style="display:inline-block">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_03.png">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_04.png">
+</div>
   
 ## References 
 

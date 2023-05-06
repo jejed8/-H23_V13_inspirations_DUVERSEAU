@@ -42,7 +42,17 @@ Description du projet:
 <br>
  
   
-<div>
-  <img src="">
+<div style="display:inline-block">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_01.png">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_02.png">
 </div>
 
+<br>
+  
+## References
+
+- https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+- https://tim-montmorency.com/2023/
+- https://www.cmontmorency.qc.ca/invitation-a-une-experience-multimedia-interactive/
+  
+  

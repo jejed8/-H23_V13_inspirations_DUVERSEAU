@@ -60,13 +60,38 @@ Le dispositif est situé dans le jardin public tout près de la porte 1. La tour
   <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/espace_edria.png">
 </div>
   
+### Composantes, techniques et éléments nécessaires
+  
+Le matériel a été reçu par livraison et transporté par boîtes. L'espace a dû être déneigé avant de pouvoir commencer à commencer l'installation. Lors de l'installation, l'équipe a dû de s'assurer de bien isoler et protéger le matériel comme le projet est réalisé à l'extérieur.
+  
+Voici la liste de matériel:
+  - Haut-parleurs;
+  - DELs;
+  - Arduino;
+  - Ampli; 
+  - Détecteur de mouvements;
+  - Caméra POE;
+  - Mac mini m2;
+  - Poteau extérieur;
+  - Driver pour DEL;
+  - Fils;
+  - Routeur sans fil;
+  - Lumière adressable;
+  - Modeme LTE;
+  - Boitier étanche;
+  - Fausse plante;
+  - Carte de son 8 channels;
+  - Pont d'éclairage;
+  - Interrupteur ethernet;
+  - Protecteur de cables pour piétons;
+  
 ### Expérience vécue
 
 Le visiteur est invité à marcher dans l’espace et venir découvrir le projet. Edria utilise des capteurs sensoriels afin de permettre l'interactivité avec le visiteur. Lorsqu'il s'approche, il peut remarquer une réaction sonore et visuelle déclenchée par les capteurs. Ensuite, lorsque le visiteur a compris que le dispositif réagit selon ses mouvements, il risque de continuer à faire des gestes pour expérimenter avec le dispositif.
   
 #### Médias
   
-  [Vidéo]()
+  [Vidéo](https://youtube.com/shorts/21C3ALyWQn8)
   
 <div style="display:inline-block">
   <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_03.png">

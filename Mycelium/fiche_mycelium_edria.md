@@ -49,7 +49,22 @@ Description du projet:
 
 <br>
   
-## References
+### Mise en espace
+
+Le dispositif est situé dans le jardin public tout près de la porte 1. La tour principale est située dans le centre de l'air commun avec les tables à pique-nique tandis que les petites tours se retrouvent aux extrémités de l'espace dallé. 
+
+#### Média
+<div style="display:inline-block">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/visualisation_edria.png">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/croquis_edria.png">
+  <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/espace_edria.png">
+</div>
+  
+### Expérience vécue
+
+Le visiteur est invité à marcher dans l’espace et venir découvrir le projet. Edria utilise des capteurs sensoriels afin de permettre l'interactivité avec le visiteur. Lorsqu'il s'approche, il peut remarquer une réaction sonore et visuelle déclenchée par les capteurs.
+  
+## References 
 
 - https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 - https://tim-montmorency.com/2023/

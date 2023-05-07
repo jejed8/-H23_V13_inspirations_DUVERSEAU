@@ -126,3 +126,29 @@ Résumé du projet :
 
 
 # Notes personnelles
+
+### 3 cours incontournable pour la réalisation de ce projet
+- Installation multimédia 582 521 MO
+- Interactivité ludique 582 301 MO
+- Objets interactifs 582 531 MO
+
+### Composante ou tehnique inconnue
+L'utilisation de logiciel sonore et de lumière m'est inconnue.
+
+
+### Préférences entres les projets
+ 1. Edria - J'adore le concept, le projet est super intéressant, l'aspect interactif semble être bien pensé;
+ 2. Echomarine - Beau concept, j'aime le thème marin, super immersif, l'aspect interactif est okay;
+ 3. Luma-Sol - Le concept est okay, je trouve qu'il aurait pu être plus développé. L'aspect interactif est bien.
+ 4. Nexum - Pas très interactif comparé comparé au autres, j'aime +/- leur concept
+
+### Assomptions
+
+Edria - Je pense que j'ai eu une bonne idée de comment le visiteur entre en relation avec l'œuvre lorsque j'ai visité les prototypes en studio. C'était simple et facile à comprendre et l'idée était super intéressante. Le dispositif était engageant.
+
+
+Echomarine - Je pense aussi que j'ai eu une bonne idée du fonctionnement de l'œuvre lors de ma visite. C'était facile à comprendre et les animations étaient intéressantes et captivantes.
+
+J'ai compris le concept lors de la visite. Parcontre, l'exécution du changement de saison était un peu floue. J'aurais préféré quelque chose de plus concret qu'un changement de couleur. Je pense que je m'ennuierai rapidement lors de la mise en exposition.
+
+Nexum - J'ai trouvé que le concept était un peu moins intéressant que les autres projets. Je ne pense pas passer beaucoup de temps sur Nexum lors de la présentation.

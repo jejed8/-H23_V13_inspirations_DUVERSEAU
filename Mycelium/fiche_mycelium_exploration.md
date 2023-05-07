@@ -134,6 +134,7 @@ Résumé du projet :
 
 ### Composante ou tehnique inconnue
 L'utilisation de logiciel sonore et de lumière m'est inconnue.
+Le logiciel Madmapper, qui semble avoir été utilisé dans plusieurs des projets étudiants, est un logiciel utilisé en carrière d'intégrateur multimédia. Il sert à faire ce qu'on appelle de videomapping, c'est-à-dire projeter ou visualiser des vidéos ou images dans un espace physique. Il semble être un logiciel assez complexe. Les étudiants de troisième année ne semblent pas posséder beaucoup de connaissance sur celui-ci comme inscrit dans une [entrée Github](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction) soulevant les contraintes de l'équipe. 
 
 
 ### Préférences entres les projets

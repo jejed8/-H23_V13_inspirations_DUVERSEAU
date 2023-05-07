@@ -98,6 +98,12 @@ Le visiteur est invité à marcher dans l’espace et venir découvrir le projet
   <img src="https://github.com/jejed8/-H23_V13_inspirations_DUVERSEAU/blob/main/Mycelium/medias/photo_edria_04.png">
 </div>
   
+### Ce qui m'a plus
+J'ai beaucoup aimé Edria. Premièrement, je trouve que le concept est très original et bien pensé. Plus particulièrement l'idée des capteurs. Selon moi, cela attire vraiment les visiteurs à s'engager avec l'œuvre. Je pense aussi que parmi que tout les projets, Edria est celui qui a le plus capté l'attention des gens, et avec raisons! Je trouve aussi que l'équipe a fait du superbe travail lorsqu'il en vient à ça la réalisation. Leurs idées se sont bien exécutées et bien réalisées. C'est quelque chose que je pense est un plus à avoir. Parfois, il est possible que le concept diffère de l'exécution, mais dans leur cas, tout semble s'être bien passé. Ce que je retiens de leur projet est que savoir stimuler le visiteur est important afin de lui laisser une impression. Donc, avoir un projet autant interactif qu'immersif. Le concept est aussi un élément clé à la réussite.
+  
+### Points négatifs
+J'ai beaucoup aimé leur projet, mais malgré tout, j'ai quand même des points négatifs à relever. Premièrement, je trouve que l'idée des tours aurait pu être mieux développée. Au moins, elles étaient décorées, mais esthétiquement, je pense qu'ils auraient pu faire mieux. Après tout, il est vrai que ce n'est qu'un projet étudiant. Justement, je trouve que le projet était dispendieux pour un projet étudiant. Ce n'est pas quelque chose que je souhaite pour mon projet final.
+  
 ## References 
 
 - https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
